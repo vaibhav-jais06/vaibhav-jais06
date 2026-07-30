@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Vaibhav%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.S.%20Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Vaibhav%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.S.%20Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Turning+Messy+Data+into+Clear+Decisions;Linear+Algebra+%7C+ML+%7C+SQL+%7C+GenAI;Currently+Building+at+IIT+Jodhpur" alt="Typing SVG" />
 
@@ -134,4 +134,4 @@ Designed normalized database schemas for multi-tier order-management systems, ba
 
 <p align="center"><i>"I don't just run the model — I want to know why it works."</i></p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:0EA5E9&height=100&section=footer)
