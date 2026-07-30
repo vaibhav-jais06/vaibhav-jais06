@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Vaibhav%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.S.%20Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=18)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=70&lines=Vaibhav+Jaiswal" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Turning+Messy+Data+into+Clear+Decisions;Linear+Algebra+%7C+ML+%7C+SQL+%7C+GenAI;Currently+Building+at+IIT+Jodhpur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A5B4FC&center=true&vCenter=true&width=600&lines=B.S.+Applied+AI+%26+Data+Science+%40+IIT+Jodhpur;Turning+Messy+Data+into+Clear+Decisions;Linear+Algebra+%7C+ML+%7C+SQL+%7C+GenAI" alt="Tagline" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=vaibhav-jais06&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
 <a href="https://vaibhavaikq9pwnco.manus.space"><img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat&logo=vercel&logoColor=white" /></a>
@@ -133,5 +135,3 @@ Designed normalized database schemas for multi-tier order-management systems, ba
 </p>
 
 <p align="center"><i>"I don't just run the model — I want to know why it works."</i></p>
-
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0:6366F1,100:0EA5E9&height=100&section=footer)
