@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Vaibhav%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.S.%20Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Vaibhav%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.S.%20Applied%20AI%20%26%20Data%20Science%20%40%20IIT%20Jodhpur&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Turning+Messy+Data+into+Clear+Decisions;Linear+Algebra+%7C+ML+%7C+SQL+%7C+GenAI;Currently+Building+at+IIT+Jodhpur" alt="Typing SVG" />
 
@@ -15,25 +15,12 @@
 
 ### 🧭 About Me
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 I'm a first-year **B.S. Applied AI & Data Science** student at **IIT Jodhpur**, building a strong foundation across mathematical engineering, machine learning, and data storytelling. I like understanding systems from first principles — implementing algorithms like Gram-Schmidt orthogonalization and QR decomposition by hand before reaching for a library — and then applying that grounding to real, end-to-end ML and analytics pipelines.
 
 Outside coursework, I compete in hackathons, work through applied job-simulation programs from teams like Tata Group and Deloitte, and stay current with the fast-moving GenAI landscape.
 
 **Currently exploring:** the intersection of Linear Algebra and Machine Learning.
 **Open to:** Data Science & Applied AI internships and collaborative projects.
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/AndreyPKapichnikov/AndreyPKapichnikov/main/data-science.gif" width="220" />
-
-</td>
-</tr>
-</table>
 
 | | |
 |---|---|
@@ -147,4 +134,4 @@ Designed normalized database schemas for multi-tier order-management systems, ba
 
 <p align="center"><i>"I don't just run the model — I want to know why it works."</i></p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
