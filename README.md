@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=vaibhav-jais06&label=Profile%20Views&color=38BDF8&style=flat" alt="profile views" />
-<a href="https://vaibhavaikq9pwnco.manus.space"><img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat&logo=vercel&logoColor=white" /></a>
+<a href="https://vaibhavai-kq9pwnco.manus.space"><img src="https://img.shields.io/badge/Portfolio-Visit-38BDF8?style=flat&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-jaiswal-132491395"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vj.7007542976@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
@@ -131,7 +131,7 @@ Designed normalized database schemas for multi-tier order-management systems, ba
 <p align="center">
   <a href="mailto:vj.7007542976@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/vaibhav-jaiswal-132491395"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://vaibhavaikq9pwnco.manus.space"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://vaibhavai-kq9pwnco.manus.space"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"I don't just run the model — I want to know why it works."</i></p>
