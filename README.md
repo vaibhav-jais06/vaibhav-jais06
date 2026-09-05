@@ -116,12 +116,11 @@ Designed normalized database schemas for multi-tier order-management systems, ba
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhav-jais06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-jais06&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vaibhav-jais06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vaibhav-jais06&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-jais06&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
