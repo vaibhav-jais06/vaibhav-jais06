@@ -119,10 +119,6 @@ Designed normalized database schemas for multi-tier order-management systems, ba
   <img src="https://streak-stats.demolab.com?user=vaibhav-jais06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhav-jais06&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ### 📬 Let's Connect
